@@ -1,5 +1,5 @@
-runner/TestRunner.class
 runner/NGTestListener.class
+runner/TestRunner.class
 steps/Hook.class
 Base/BaseUtil.class
 steps/LoginStep$User.class
